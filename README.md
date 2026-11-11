@@ -18,6 +18,9 @@
   <a href="https://www.facebook.com/ragnarlodbrokdev93?mibextid=wwXIfr&rdid=xDGbAD6Be7EGJXB1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EGxfNFk5x%2F%3Fmibextid%3DwwXIfr#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/sergiorubiodev" target="_blank">
+  <img src="https://raw.githubusercontent.com//maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
 </div>
 
 ###
