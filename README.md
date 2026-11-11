@@ -26,7 +26,8 @@
 
 ###
 
-<img src="https://githubusercontent.com" alt="pacman contribution graph" />
+<img src="https://githubusercontent.com" alt="pacman contribution graph" width="100%" />
+
 
 
 
